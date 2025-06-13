@@ -1,4 +1,5 @@
 # myGeoLlama
 Train Geollama with LLama 3.1 and Unsloth
 
-![alt text](https://github.com/chaoshun2025/myGeoLlama/blob/main/myGeoLlamaTrainingCurves.jpg "myGeoLlama finetuning training loss curves")
+
+https://github.com/myann2025/myGeoLLama/blob/main/myGeoLlamaTrainingCurves.jpg
